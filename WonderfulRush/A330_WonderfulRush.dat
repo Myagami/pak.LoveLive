@@ -1,0 +1,28 @@
+------------------------------------------------------
+	Airbus A300
+		Painted by E.T.
+------------------------------------------------------
+obj=vehicle
+name=Airbus_A330_WonderfulRush
+copyright=Takamaro / M.Kousaka
+intro_year=1988
+waytype=air
+engine_type=diesel
+freight=Passagiere
+payload=335
+speed=871
+power=154844
+gear=100
+cost=16750000
+RunningCost=2412
+weight=125
+Sound=-1
+EmptyImage[SE]=A330_WonderfulRush.0.0
+EmptyImage[NW]=A330_WonderfulRush.0.1
+EmptyImage[SW]=A330_WonderfulRush.0.2
+EmptyImage[NE]=A330_WonderfulRush.0.3
+EmptyImage[S]=A330_WonderfulRush.0.4
+EmptyImage[E]=A330_WonderfulRush.0.5
+EmptyImage[N]=A330_WonderfulRush.0.6
+EmptyImage[W]=A330_WonderfulRush.0.7
+------------------------------------------------------
